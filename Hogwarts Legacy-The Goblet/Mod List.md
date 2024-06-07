@@ -1,20 +1,10 @@
 # Hogwarts Legacy: The Goblet Mods
 
-## Contents:
-
-- [Config](#config)
-- [Audio](#audio)
-- [Characters](#characters)
-
-
-
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
 
 
-
-## Config
 
 <details>
 <summary>Config</summary>
@@ -38,8 +28,6 @@ Installed 11/20/2023 from unknown source (config)
 
 
 
-
-## Audio
 
 <details>
 <summary>Audio</summary>
@@ -140,8 +128,6 @@ Silence Revelio
 
 
 
-
-## Characters
 
 <details>
 <summary>Characters</summary>
@@ -678,6 +664,12 @@ Replace female face shape number 1.
 
 
 
+<details>
+<summary>Creatures</summary>
+
+![img](https://i.imgur.com/gF9VG11.png)
+
+
 <hr />
 
 ### Blk Thestral (B) 1
@@ -705,7 +697,20 @@ Installed 3/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/m
 
 Transforms hippogryphs into dragons
 
+<hr />
 
+![img](https://i.imgur.com/gF9VG11.png)
+
+</details>
+
+
+
+
+
+<details>
+<summary>Gameplay</summary>
+
+![img](https://i.imgur.com/gF9VG11.png)
 
 
 <hr />
@@ -990,8 +995,21 @@ Installed 3/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/m
 
 All this does is change the maximum fly height.
 
+<hr />
+
+![img](https://i.imgur.com/gF9VG11.png)
+
+</details>
 
 
+
+
+
+
+<details>
+<summary>Miscellaneous</summary>
+
+![img](https://i.imgur.com/gF9VG11.png)
 
 <hr />
 
@@ -1065,8 +1083,19 @@ Installed 3/27/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/m
 
 UnEquip Wand mod adds a hotkey to instantly unequip wand.<br />* also adds toggle hood hotkey * Now with in game UI to change hotkeys !
 
+<hr />
+
+![img](https://i.imgur.com/gF9VG11.png)
+
+</details>
 
 
+
+
+
+
+<details>
+<summary>User Interface</summary>
 
 <hr />
 
@@ -1260,8 +1289,19 @@ Installed 3/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/m
 
 Makes the UI smaller.
 
+<hr />
+
+![img](https://i.imgur.com/gF9VG11.png)
+
+</details>
 
 
+
+
+
+
+<details>
+<summary>Visuals</summary>
 
 <hr />
 
@@ -1635,14 +1675,25 @@ Installed 3/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/m
 
 Replaces your wand with Voldemort's Wand, but it actually works now
 
+<hr />
+
+![img](https://i.imgur.com/gF9VG11.png)
+
+</details>
 
 
+
+
+
+
+<details>
+<summary>Other</summary>
 
 <hr />
 
 ### Cedric Diggory&#39;s wand 2.1
 
-Installed 4/12/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/846/) (Unknown) 
+Installed 4/12/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/846/) (Other) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/5113/images/846/846-1677808136-335533205.jpeg" alt="mod-image" height="350" />
 
@@ -1657,7 +1708,7 @@ Cedric Diggory's wand
 
 ### DekBetterBroomUpgrades 1.0
 
-Installed 5/6/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1337/) (Unknown) 
+Installed 5/6/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1337/) (Other) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/5113/images/1337/1337-1683304371-1011444676.jpeg" alt="mod-image" height="350" />
 
@@ -1672,7 +1723,7 @@ Enhances broom upgrades by giving COMPLETE control over your broom and how it pe
 
 ### DekChangeSeasons 1.2
 
-Installed 8/21/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1506/) (Unknown) 
+Installed 8/21/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1506/) (Other) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/5113/images/1506/1506-1690929067-1441810415.png" alt="mod-image" height="350" />
 
@@ -1687,7 +1738,7 @@ Adds a button into the field guide that allows you to control the season!!
 
 ### DekChangeWeather 1.1
 
-Installed 9/26/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1570/) (Unknown) 
+Installed 9/26/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1570/) (Other) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/5113/images/1570/1570-1692111676-414520630.jpeg" alt="mod-image" height="350" />
 
@@ -1702,7 +1753,7 @@ All real wizards can control the weather at will.. Now you can too!! Adds a butt
 
 ### Hogwarts Mod Merger 0.12.1
 
-Installed 8/21/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/178/) (Unknown) 
+Installed 8/21/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/178/) (Other) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/5113/images/178/178-1676347760-87689466.png" alt="mod-image" height="350" />
 
@@ -1721,7 +1772,7 @@ Standalone Utility to combine and edit mods, enabling previously incompatible mo
 
 ### Improved Dark Arts Robes - All-In-One 2.0
 
-Installed 3/30/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/153/) (Unknown) 
+Installed 3/30/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/153/) (Other) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/5113/images/153/153-1676330572-1697190663.jpeg" alt="mod-image" height="350" />
 
@@ -1736,7 +1787,7 @@ Numerous available options to make these robes look how you want them to look.
 
 ### RE-UE4SS 2.5.1-Vortex
 
-Installed 5/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/942) (Unknown) 
+Installed 5/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/942) (Other) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/5113/images/942/942-1678064641-676703186.png" alt="mod-image" height="350" />
 
@@ -1751,7 +1802,7 @@ UE4SS is a Lua scripting system, blueprint modloader and live debugger for UE4 g
 
 ### ReShade_Setup_5.9.2.exe 
 
-Installed 9/26/2023 from unknown source (Unknown) 
+Installed 9/26/2023 from unknown source (Other) 
 
 
 > By Unknown Author for Hogwarts Legacy (Default)
@@ -1765,10 +1816,16 @@ Installed 9/26/2023 from unknown source (Unknown)
 
 ### Ultimate Wand Collection All in One 1
 
-Installed 4/2/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1208) (Unknown) 
+Installed 4/2/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1208) (Other) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/5113/images/1208/1208-1680231672-1306528514.jpeg" alt="mod-image" height="350" />
 
 > By Rosestorm for Hogwarts Legacy (Pak Mod)
 
 A collection of all 39 character wands from the game files.
+
+<hr />
+
+![img](https://i.imgur.com/gF9VG11.png)
+
+</details>
