@@ -1,11 +1,20 @@
-## Hogwarts Legacy: The Goblet Mods
+# Hogwarts Legacy: The Goblet Mods
 
-### Contents:
+## Contents:
 
 - [Config](#config)
 - [Audio](#audio)
+- [Characters](#characters)
 
 
+
+
+![img](https://i.imgur.com/gF9VG11.png)
+
+
+
+
+## Config
 
 <details>
 <summary>Config</summary>
@@ -127,6 +136,17 @@ Silence Revelio
 
 </details>
 
+
+
+
+
+
+## Characters
+
+<details>
+<summary>Characters</summary>
+
+![img](https://i.imgur.com/gF9VG11.png)
 
 <hr />
 
@@ -649,6 +669,11 @@ Installed 3/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/m
 > By Wiwilz for Hogwarts Legacy (Pak Mod)
 
 Replace female face shape number 1.
+
+![img](https://i.imgur.com/gF9VG11.png)
+
+</details>
+
 
 
 
