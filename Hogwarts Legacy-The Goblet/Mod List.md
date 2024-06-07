@@ -37,6 +37,8 @@ Installed 11/20/2023 from unknown source (config)
 <details>
 <summary>Tools</summary>
 
+![img](https://i.imgur.com/gF9VG11.png)
+
 <hr />
 
 ### Hogwarts Mod Merger 0.12.1
