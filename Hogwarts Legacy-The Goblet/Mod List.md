@@ -2,162 +2,40 @@
 
 ### Contents:
 
+- [Config](#config)
 - [Audio](#audio)
 
 
-<hr />
-<hr />
 
-### Cedric Diggory&#39;s wand 2.1
+<details>
+<summary>Config</summary>
 
-Installed 4/12/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/846/) (Unknown) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/5113/images/846/846-1677808136-335533205.jpeg" alt="mod-image" height="350" />
-
-> By Ciel3 for Hogwarts Legacy (Pak Mod)
-
-Cedric Diggory's wand
-
-
-
-
-<hr />
-
-### DekBetterBroomUpgrades 1.0
-
-Installed 5/6/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1337/) (Unknown) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/5113/images/1337/1337-1683304371-1011444676.jpeg" alt="mod-image" height="350" />
-
-> By DekitaRPG for Hogwarts Legacy (Default)
-
-Enhances broom upgrades by giving COMPLETE control over your broom and how it performs!
-
-
-
-
-<hr />
-
-### DekChangeSeasons 1.2
-
-Installed 8/21/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1506/) (Unknown) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/5113/images/1506/1506-1690929067-1441810415.png" alt="mod-image" height="350" />
-
-> By DekitaRPG for Hogwarts Legacy (Default)
-
-Adds a button into the field guide that allows you to control the season!!
-
-
-
-
-<hr />
-
-### DekChangeWeather 1.1
-
-Installed 9/26/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1570/) (Unknown) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/5113/images/1570/1570-1692111676-414520630.jpeg" alt="mod-image" height="350" />
-
-> By DekitaRPG for Hogwarts Legacy (Default)
-
-All real wizards can control the weather at will.. Now you can too!! Adds a button into the field guide that opens the UI!!
-
-
-
-
-<hr />
-
-### Hogwarts Mod Merger 0.12.1
-
-Installed 8/21/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/178/) (Unknown) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/5113/images/178/178-1676347760-87689466.png" alt="mod-image" height="350" />
-
-> By Iridium IO for Hogwarts Legacy (Default)
-
-Standalone Utility to combine and edit mods, enabling previously incompatible mods to work together.<br />Currently able to merge mods that use PhoenixShipData.sqlite and English localization strings.
-
-
-**Notes**: This is a Mod Merger to merge sqldb mods (for advanced user only).
-
-
-
-
-
-<hr />
-
-### Improved Dark Arts Robes - All-In-One 2.0
-
-Installed 3/30/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/153/) (Unknown) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/5113/images/153/153-1676330572-1697190663.jpeg" alt="mod-image" height="350" />
-
-> By Arbek for Hogwarts Legacy (Pak Mod)
-
-Numerous available options to make these robes look how you want them to look.
-
-
-
-
-<hr />
-
-### RE-UE4SS 2.5.1-Vortex
-
-Installed 5/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/942) (Unknown) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/5113/images/942/942-1678064641-676703186.png" alt="mod-image" height="350" />
-
-> By UE4SS for Hogwarts Legacy (Default)
-
-UE4SS is a Lua scripting system, blueprint modloader and live debugger for UE4 games.  Nexus mirror of latest UE4SS Release for Hogwarts
-
-
-
-
-<hr />
-
-### ReShade_Setup_5.9.2.exe 
-
-Installed 9/26/2023 from unknown source (Unknown) 
-
-
-> By Unknown Author for Hogwarts Legacy (Default)
-
-
-
-
-
-
-<hr />
-
-### Ultimate Wand Collection All in One 1
-
-Installed 4/2/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1208) (Unknown) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/5113/images/1208/1208-1680231672-1306528514.jpeg" alt="mod-image" height="350" />
-
-> By Rosestorm for Hogwarts Legacy (Pak Mod)
-
-A collection of all 39 character wands from the game files.
-
-
-
+![img](https://i.imgur.com/gF9VG11.png)
 
 <hr />
 
 ### v2_Config - The Goblet Rev 63 
 
-Installed 11/20/2023 from unknown source (Unknown) 
+Installed 11/20/2023 from unknown source (config) 
 
 
-> By Unknown Author for Hogwarts Legacy (Default)
+> By 2077v2 for Hogwarts Legacy (Default)
+
+![img](https://i.imgur.com/gF9VG11.png)
+
+</details>
 
 
 
+
+
+
+## Audio
 
 <details>
 <summary>Audio</summary>
+
+![img](https://i.imgur.com/gF9VG11.png)
 
 <hr />
 
@@ -170,7 +48,6 @@ Installed 4/13/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/m
 > By yakuzadeso for Hogwarts Legacy (Pak Mod)
 
 Accurate Dialogue choices! What you select is what you'll say! Supports English, Arabic, Simplified Chinese, Traditional Chinese, French, German, Italian, Japanese, Korean, Polish, Brazilian Portuguese, Russian, Spanish, Latin American Spanish.
-
 
 
 
@@ -246,6 +123,7 @@ Installed 3/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/m
 
 Silence Revelio
 
+![img](https://i.imgur.com/gF9VG11.png)
 
 </details>
 
@@ -1737,3 +1615,135 @@ Replaces your wand with Voldemort's Wand, but it actually works now
 
 <hr />
 
+### Cedric Diggory&#39;s wand 2.1
+
+Installed 4/12/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/846/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/5113/images/846/846-1677808136-335533205.jpeg" alt="mod-image" height="350" />
+
+> By Ciel3 for Hogwarts Legacy (Pak Mod)
+
+Cedric Diggory's wand
+
+
+
+
+<hr />
+
+### DekBetterBroomUpgrades 1.0
+
+Installed 5/6/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1337/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/5113/images/1337/1337-1683304371-1011444676.jpeg" alt="mod-image" height="350" />
+
+> By DekitaRPG for Hogwarts Legacy (Default)
+
+Enhances broom upgrades by giving COMPLETE control over your broom and how it performs!
+
+
+
+
+<hr />
+
+### DekChangeSeasons 1.2
+
+Installed 8/21/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1506/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/5113/images/1506/1506-1690929067-1441810415.png" alt="mod-image" height="350" />
+
+> By DekitaRPG for Hogwarts Legacy (Default)
+
+Adds a button into the field guide that allows you to control the season!!
+
+
+
+
+<hr />
+
+### DekChangeWeather 1.1
+
+Installed 9/26/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1570/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/5113/images/1570/1570-1692111676-414520630.jpeg" alt="mod-image" height="350" />
+
+> By DekitaRPG for Hogwarts Legacy (Default)
+
+All real wizards can control the weather at will.. Now you can too!! Adds a button into the field guide that opens the UI!!
+
+
+
+
+<hr />
+
+### Hogwarts Mod Merger 0.12.1
+
+Installed 8/21/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/178/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/5113/images/178/178-1676347760-87689466.png" alt="mod-image" height="350" />
+
+> By Iridium IO for Hogwarts Legacy (Default)
+
+Standalone Utility to combine and edit mods, enabling previously incompatible mods to work together.<br />Currently able to merge mods that use PhoenixShipData.sqlite and English localization strings.
+
+
+**Notes**: This is a Mod Merger to merge sqldb mods (for advanced user only).
+
+
+
+
+
+<hr />
+
+### Improved Dark Arts Robes - All-In-One 2.0
+
+Installed 3/30/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/153/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/5113/images/153/153-1676330572-1697190663.jpeg" alt="mod-image" height="350" />
+
+> By Arbek for Hogwarts Legacy (Pak Mod)
+
+Numerous available options to make these robes look how you want them to look.
+
+
+
+
+<hr />
+
+### RE-UE4SS 2.5.1-Vortex
+
+Installed 5/24/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/942) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/5113/images/942/942-1678064641-676703186.png" alt="mod-image" height="350" />
+
+> By UE4SS for Hogwarts Legacy (Default)
+
+UE4SS is a Lua scripting system, blueprint modloader and live debugger for UE4 games.  Nexus mirror of latest UE4SS Release for Hogwarts
+
+
+
+
+<hr />
+
+### ReShade_Setup_5.9.2.exe 
+
+Installed 9/26/2023 from unknown source (Unknown) 
+
+
+> By Unknown Author for Hogwarts Legacy (Default)
+
+
+
+
+
+
+<hr />
+
+### Ultimate Wand Collection All in One 1
+
+Installed 4/2/2023 from [Nexus Mods](https://www.nexusmods.com/hogwartslegacy/mods/1208) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/5113/images/1208/1208-1680231672-1306528514.jpeg" alt="mod-image" height="350" />
+
+> By Rosestorm for Hogwarts Legacy (Pak Mod)
+
+A collection of all 39 character wands from the game files.
