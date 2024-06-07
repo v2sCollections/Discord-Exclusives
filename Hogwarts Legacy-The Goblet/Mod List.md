@@ -1200,6 +1200,8 @@ UnEquip Wand mod adds a hotkey to instantly unequip wand.<br />* also adds toggl
 <details>
 <summary>User Interface</summary>
 
+![img](https://i.imgur.com/gF9VG11.png)
+
 <hr />
 
 ### ApparateUI 1.0
@@ -1405,6 +1407,8 @@ Makes the UI smaller.
 
 <details>
 <summary>Visuals</summary>
+
+![img](https://i.imgur.com/gF9VG11.png)
 
 <hr />
 
