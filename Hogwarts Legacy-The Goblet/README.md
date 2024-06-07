@@ -1,4 +1,4 @@
-### ✅ Compatible with the latest patch
+### ✅&#x20;
 
 https://www.youtube.com/watch?v=\_94nFCwEh4o
 
@@ -48,12 +48,15 @@ This collection is extensively tested with every new version, because we want to
 
 ![img](https://i.imgur.com/9CI9KF1.png)[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/v2-s-collections-1076179431195955290)
 
-- These are some of the best mods and are a must-have to immerse yourself into Hogwarts Legacy.
+- These are some of the best mods and are a must-have to immerse yourself into **Hogwarts Legacy**.
+- The most exstensive mod collection on nexus for **Hogwarts Legacy**.
 - Easy to follow step-by-step installation guide.
 - Only [4](https://) GB in download size for [120](https://)+ mods.
 - Mods specifically created for the collection.
-- Setup Video [HERE](https://youtu.be/_94nFCwEh4o)
-- Dedicated Youtube playlist [HERE](https://www.youtube.com/playlist?list=PLkl_09LX565sJKM4lidWzvFVpw1qVnP_m)
+- Support for other **Modular Expansion Packs**.
+- Setup Video-[HERE](https://youtu.be/_94nFCwEh4o)
+- Dedicated YouTube playlist [HERE](https://www.youtube.com/playlist?list=PLkl_09LX565sJKM4lidWzvFVpw1qVnP_m)
+- [Github Repository](https://github.com/v2sCollections/Discord-Exclusives/tree/main/Hogwarts%20Legacy-The%20Goblet)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
 - Giveaways. Game Keys/Discord Nitro (Every Week).
@@ -95,6 +98,12 @@ C:/Users/Your Username/AppData/Local/Hogwarts Legacy/Saved/SaveGames
 </details>
 
 <details><summary>⛔HOW TO UPDATE</summary>
+***
+
+https://www.youtube.com/watch?v=8KyTd3YAaUM
+
+![](https://i.imgur.com/atKF9CF.png)
+
 - **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?tab=about\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
@@ -325,9 +334,9 @@ Reshade controls
 
 ***
 
-## YOU ARE READY TO  &#x20;
+## NOW!!! YOU ARE READY TO  &#x20;
 
-# ![](https://media.giphy.com/media/5qvHxHLtxAx4Q5w7We/giphy.gif)                          ![](https://i.imgur.com/7pjddxF.png)
+## ![](https://media.giphy.com/media/5qvHxHLtxAx4Q5w7We/giphy.gif)                          ![](https://i.imgur.com/7pjddxF.png)Please Endorse and Vote for the Collection.
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
@@ -336,7 +345,7 @@ Reshade controls
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Hogwarts Legacy, or the collection when you see errors on Vortex.
 
 - You can find the full Troubleshooting list on our[ Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting FAQ](https://github.com/2077v2/Goblet/blob/main/Troubleshooting%20FAQ.md).
-- You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Goblet/blob/main/Guides.md).
+- You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/v2sCollections/Discord-Exclusives/blob/main/Hogwarts%20Legacy-The%20Goblet/Guides.md).
 
 ## FAQ
 
@@ -388,7 +397,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
-![img](https://i.imgur.com/IqyYRkU.png)
+![img](https://i.imgur.com/IqyYRkU.png)Check out the full breakdown of all the mods included in the Collection [HERE](https://github.com/v2sCollections/Discord-Exclusives/blob/main/Hogwarts%20Legacy-The%20Goblet/Mod%20List.md)
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -1029,11 +1038,11 @@ Train Times increased to every day and three more times a day.
 
 ![img](https://i.imgur.com/eMrLz4n.png)
 
-- ⛔ I recommend **NOT** installing extra mods that are not part of the collection but we have a dedicated channel in Discord for Altered Collections.
+- ⛔ I recommend **NOT** installing extra mods that are not part of the collection but you can join the Discord if you would like any advice when adding new mods.
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
-![img](https://i.imgur.com/kbr5Wce.png)Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
+![img](https://i.imgur.com/kbr5Wce.png)Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by us.
 
 ## [The GOBLET Wand Pack by v2](https://next.nexusmods.com/hogwartslegacy/collections/pugmsr/revisions/1?pk_campaign=ViewCollection\&pk_source=vortex)
 
@@ -1093,16 +1102,6 @@ This Pack is if you want all mod items that replace the standard wands as [THE G
 - STORAGE TYPE> SSD
 </details>
 
-![img](https://i.imgur.com/gF9VG11.png)
-
-![img](https://i.imgur.com/YZIIaJG.png)
-
-<details><summary>CLICK FOR MORE DETAILS</summary>
-- &#x20;[Toggle HUD.](https://www.nexusmods.com/hogwartslegacy/mods/137)
-- [Better Graphics and No Fog.](https://www.nexusmods.com/hogwartslegacy/mods/279)
-- [Force Fullscreen FPS Boost](https://www.nexusmods.com/hogwartslegacy/mods/470)
-</details>
-
 ![img](https://i.imgur.com/atKF9CF.png)
 
 ![img](https://i.imgur.com/whUqX4P.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
@@ -1113,9 +1112,7 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus & Hogwarts Legacy Discord.
 
-- Fenrir
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- DovaDigital
+- trademarks
 - [Narknon](https://www.nexusmods.com/hogwartslegacy/users/4196370)
 - [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
 - [yakuzadeso](https://www.nexusmods.com/users/63907421?_gl=1%2A2s3zjx%2A_ga%2AOTk3OTU4MDIzLjE2NDc1NDI0NDU.%2A_ga_N0TELNQ37M%2AMTY3OTQwODI0NC4zNzYuMS4xNjc5NDEwMTY3LjAuMC4w\&tab=about+me)
@@ -1137,6 +1134,6 @@ If you would like to support me so I can afford a new broom and wand click the b
 - ⛔ Please don't use a similar name to this collection.
 - ⛔ I do not allow you to copy or clone this collection in any way.
 - ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
-- Hogwarts Legacy brand and name is the registered trademark of its respective owner.
+- Hogwarts Legacy brand and name are the registered trademarks of its respective owners.
 
 ![img](https://i.imgur.com/gF9VG11.png)![](https://s12.gifyu.com/images/SVQQz.png)
