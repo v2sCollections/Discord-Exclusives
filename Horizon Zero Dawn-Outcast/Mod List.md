@@ -310,8 +310,6 @@ Makeup options for Aloy
 
 Installed 1/15/2024 from [Nexus Mods](https://www.nexusmods.com/horizonzerodawn/mods/53/) (Visuals and Graphics) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/3381/images/53/53-1614856989-333752356.jpeg" alt="mod-image" height="350" />
-
 > By Orangy for Horizon Zero Dawn (Default)
 
 Changes some Aloy outfits to explicit versions.
@@ -324,8 +322,6 @@ Changes some Aloy outfits to explicit versions.
 ### Aloy Explicit Outfits 3 (Carja Blazon) - Carja Blazon v1.1 1.1
 
 Installed 1/15/2024 from [Nexus Mods](https://www.nexusmods.com/horizonzerodawn/mods/106/) (Visuals and Graphics) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/3381/images/106/106-1644361244-1740874140.png" alt="mod-image" height="350" />
 
 > By Runder for Horizon Zero Dawn (Default)
 
@@ -340,8 +336,6 @@ A continuation of Orangy's Explicit Outfits,<br /><br />This mod replaces Carja 
 
 Installed 1/15/2024 from [Nexus Mods](https://www.nexusmods.com/horizonzerodawn/mods/60/) (Visuals and Graphics) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/3381/images/60/60-1622554229-1420582135.png" alt="mod-image" height="350" />
-
 > By PositronLazor69 for Horizon Zero Dawn (Default)
 
 This mod makes Aloy wear no clothes <br />Now way easier to install than before
@@ -355,8 +349,6 @@ This mod makes Aloy wear no clothes <br />Now way easier to install than before
 
 Installed 1/15/2024 from [Nexus Mods](https://www.nexusmods.com/horizonzerodawn/mods/55/) (Visuals and Graphics) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/3381/images/55/55-1617857335-1069653377.png" alt="mod-image" height="350" />
-
 > By Dziggy for Horizon Zero Dawn (Default)
 
 Gives rain a more translucent and natural look, and fixes the visibility problems it can cause (particularly for people playing with HDR enabled).
@@ -369,8 +361,6 @@ Gives rain a more translucent and natural look, and fixes the visibility problem
 ### Explicit Outifts 2 1.3
 
 Installed 1/15/2024 from [Nexus Mods](https://www.nexusmods.com/horizonzerodawn/mods/79/) (Visuals and Graphics) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/3381/images/79/79-1631992012-1887555779.png" alt="mod-image" height="350" />
 
 > By Torandi for Horizon Zero Dawn (Default)
 
