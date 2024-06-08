@@ -32,61 +32,84 @@ So join us choombah and come along for the ride.
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 </details>
 
-### [Make a Backup Save](https://)
-
+<details><summary>⛔MAKE A BACKUP SAVE</summary>
 - Mods for Horizon Zero Dawn are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
-## [Updating Collection](https://)[   ](https://)
+```
+C:\Users\Your username\Saved Games\
+```
+</details>
+
+<details><summary>⛔HOW TO UPDATE</summary>
+***
+
+https://www.youtube.com/watch?v=8KyTd3YAaUM
+
+![](https://i.imgur.com/wAJUpeU.png)
 
 - **1**) Create a new Profile in Vortex and enable it.
-- **2**) Go to the [Collection](https://next.nexusmods.com/horizonzerodawn/collections/trfkgt/revisions/1?utm_medium=vortex\&utm_source=vortex\&utm_campaign=view_collection\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **2**) Go to the [Collection](https://next.nexusmods.com/horizonzerodawn/collections/trfkgt?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile. But ⛔**DO NOT** remove the archives.
 
 ⛔**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
 
-## [Launching Horizon Zero Dawn](https://)
+![](https://i.imgur.com/wAJUpeU.png)
+</details>
 
+<details><summary>⛔ LAUNCHING HORIZON ZERO DAWN</summary>
 - Use Vortex to launch the game.
 
 ![](https://s5.gifyu.com/images/SRvAm.png)
+</details>
 
 ![](https://s5.gifyu.com/images/SRkPv.png)
 
-## ![](https://s5.gifyu.com/images/SRkXg.png)[Install time](https://)
+## ![](https://s5.gifyu.com/images/SRkXg.png)
 
-**Premium Users**: Takes 20 Mins + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 40 Mins + Semi-automatic. You will have to click on download for each mod one by one.
-
+<details><summary>⏰ INSTALL TIME</summary>
 ***
 
-## [PC  Updates](https://)
+![](https://s5.gifyu.com/images/SRkPv.png)**Premium Users**: Takes 20 Mins + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 40 Mins + Semi-automatic. You will have to click on download for each mod one by one.
 
-- ⛔ Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
+
+<details><summary>1️⃣ PC Updates</summary>
+***
+
+![](https://s5.gifyu.com/images/SRkPv.png)
+
+- &#x20;⛔ Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - ⛔ Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 - ⛔ Make sure that you have the latest Graphics driver update.
 
+![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
+
+<details><summary>2️⃣ Horizon Zero Dawn</summary>
 ***
 
-## [Control](https://)
-
-**1**) Start with a fresh install of **Horizon Zero Dawn**.
+![](https://s5.gifyu.com/images/SRkPv.png)**1**) Start with a fresh install of **Horizon Zero Dawn**.
 
 **2**) ⛔ Make sure the game is installed on an **SSD**.
 
+![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
+
+<details><summary>4️⃣ Vortex</summary>
 ***
 
-## [Vortex](https://)
+![](https://s5.gifyu.com/images/SRkPv.png)**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
-**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+![](https://www.nexusmods.com/site/mods/1)![](https://www.nexusmods.com/site/mods/1)[![](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1)![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
 
-[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
-
+<details><summary>5️⃣ Vortex & Horizon Zero Dawn</summary>
 ***
 
-## [Vortex & Control](https://)
-
-**1**) Open Vortex and click on **"Select a game to manage"**.
+![](https://s5.gifyu.com/images/SRkPv.png)**1**) Open Vortex and click on **"Select a game to manage"**.
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Horizon Zero Dawn"** icon and click on **"Manage".**
 
@@ -108,64 +131,41 @@ Epic>  Drive Letter\EpicLibrary\Horizon Zero Dawn
 
 **8**) On the same window select **"hard link deployment"** and check **"apply"**.
 
-![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
+![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
 
+<details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
 ***
 
-## [INSTALLING THE COLLECTION](https://)
-
-**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+![](https://s5.gifyu.com/images/SRkPv.png)**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
 ![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)**2**) Click "Add to Vortex"(choose your newly created profile).
 
-![](https://s12.gifyu.com/images/Untitled1.png)
+![](https://s12.gifyu.com/images/Untitled1.png)![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
 
+<details><summary>7️⃣ POP-UPS</summary>
 ***
 
-## [POPUPS](https://)
+![](https://s5.gifyu.com/images/SRkPv.png)**1**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
-**2**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
+![](https://s11.gifyu.com/images/Optinal.jpg)![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
 
-![](https://s11.gifyu.com/images/Optinal.jpg)
-
+<details><summary>8️⃣ OPTIONAL MODS</summary>
 ***
 
-## [OPTIONAL MODS](https://)
-
-Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process  **(Make sure to read these messages)**.
+![](https://s5.gifyu.com/images/SRkPv.png)Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process  **(Make sure to read these messages)**.
 
 ⛔**NOTE** Only install 1 hair variant and 1 eyebrow variant.
 
-***
+## ![](https://s5.gifyu.com/images/SRkPv.png)Reshade
 
-## [In-game settings](https://)
-
-**1**) Keybinds
-
-<details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
-![](https://s5.gifyu.com/images/SRvAq.png)
-
-These are set for a full-size KB.
-
-![](https://s5.gifyu.com/images/SRkPv.png)
-</details>
-
-## [Cheat Engine](https://)
-
-<details><summary>CLICK HERE FOR CHEAT ENGINE INSTALLATION</summary>
-![](https://s5.gifyu.com/images/SRvA4.jpg)To use the included cheat engine script you will need to install Cheat Engine you can find it [HERE](https://www.cheatengine.org/downloads.php) once downloaded and installed you can launch the script from the tools bar in the top left-hand corner of Vortex.
-</details>
-
-## [Reshade](https://)
-
-<details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION</summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
 **1**) Click on Reshade in the top corner.
 
-![](https://s5.gifyu.com/images/SRvAc.jpg)**2**)
-
-Select browse and find the **"*****HorizonZeroDawn.exe*****"** and select it.**(Locations below)**
+![](https://s5.gifyu.com/images/SRvAc.jpg)**2**) Select browse and find the **"*****HorizonZeroDawn.exe*****"** and select it.**(Locations below)**
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\HorizonZeroDawn.exe
@@ -189,6 +189,34 @@ I have added the Reshade below.
 
 **End** key to toggle main effects\
 **Home** key to open GUI
+
+![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
+
+<details><summary>🎮 IN-GAME SETTINGS</summary>
+***
+
+![](https://s5.gifyu.com/images/SRkPv.png)
+
+![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
+
+<details><summary>⌨️ Keybinds</summary>
+![](https://s5.gifyu.com/images/SRvAq.png)![](https://s5.gifyu.com/images/SRkPv.png)
+
+These are set for a full-size KB.
+
+![](https://s5.gifyu.com/images/SRkPv.png)
+</details>
+
+<details><summary>🎮 CLICK HERE FOR CHEAT ENGINE INSTALLATION</summary>
+***
+
+![](https://s5.gifyu.com/images/SRkPv.png)To use the included cheat engine script you will need to install Cheat Engine you can find it [HERE](https://www.cheatengine.org/downloads.php) once downloaded and installed you can launch the script from the tools bar in the top left-hand corner of Vortex.
+
+![](https://s5.gifyu.com/images/SRvA4.jpg)
+
+![](https://s5.gifyu.com/images/SRkPv.png)
 </details>
 
 ***
@@ -281,9 +309,7 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these guys who helped make this collection.
 
-- Fenrir
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- DovaDigital
+- v2s Collections Team
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 
