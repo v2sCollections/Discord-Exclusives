@@ -228,7 +228,7 @@ These are set for a full-size KB.
 ***
 
 \
-![](https://s5.gifyu.com/images/SRv1x.png)
+![](https://s5.gifyu.com/images/SRv1x.png)Check out the full breakdown of all the mods included in the Collection [HERE](https://github.com/v2sCollections/Discord-Exclusives/blob/main/Horizon%20Zero%20Dawn-Outcast/Mod%20List.md)
 
 ![](https://s5.gifyu.com/images/SRkPv.png)
 
