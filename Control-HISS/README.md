@@ -189,6 +189,12 @@ These can be configured in-game but I've configured them to get you started. The
 
 ![](https://s5.gifyu.com/images/SR9C3.jpg)
 
+![](https://s12.gifyu.com/images/SY6bM.png)Check out the full breakdown of all the mods included in the Collection [HERE](https://github.com/v2sCollections/Discord-Exclusives/blob/main/Control-HISS/Mod%20List.md)
+
+
+
+![](https://s5.gifyu.com/images/SR9C3.jpg)
+
 ![](https://s5.gifyu.com/images/SR9O6.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
@@ -197,9 +203,7 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these guys who helped make this collection.
 
-- Fenrir
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- DovaDigital
+- v2s Collections Team
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 
