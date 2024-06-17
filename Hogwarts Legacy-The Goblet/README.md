@@ -1,4 +1,4 @@
-### ✅&#x20;
+### **✅Compatible With June 6th Patch**
 
 https://www.youtube.com/watch?v=\_94nFCwEh4o
 
@@ -28,28 +28,14 @@ This collection is extensively tested with every new version, because we want to
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
-# [Contents:](https://)
-
-1. Why This Collection❓
-2. What Is Included❓
-3. Read before installing❗
-4. Installation.
-5. Troubleshooting.
-6. Mod Settings and Overview.
-7. [THE GOBLET OVERHAUL.](https://www.nexusmods.com/hogwartslegacy/mods/702)
-8. Modding The Collection.
-9. Compatible Collections & Pack Installation Guide.
-10. Performance Guide for Hogwarts Legacy by[v2](https://www.nexusmods.com/users/123334373).
-11. System Requirements.
-12. Other mods we recommend.
-13. Support The Curators and Modders.
+# ![](https://s12.gifyu.com/images/SYVfP.png)
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
 ![img](https://i.imgur.com/9CI9KF1.png)[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/v2-s-collections-1076179431195955290)
 
 - These are some of the best mods and are a must-have to immerse yourself into **Hogwarts Legacy**.
-- The most exstensive mod collection on nexus for **Hogwarts Legacy**.
+- The most exstensive mod collection on Nexus for **Hogwarts Legacy**.
 - Easy to follow step-by-step installation guide.
 - Only [4](https://) GB in download size for [120](https://)+ mods.
 - Mods specifically created for the collection.
@@ -57,27 +43,27 @@ This collection is extensively tested with every new version, because we want to
 - Setup Video-[HERE](https://youtu.be/_94nFCwEh4o)
 - Dedicated YouTube playlist [HERE](https://www.youtube.com/playlist?list=PLkl_09LX565sJKM4lidWzvFVpw1qVnP_m)
 - [Github Repository](https://github.com/v2sCollections/Discord-Exclusives/tree/main/Hogwarts%20Legacy-The%20Goblet)-with Guides/FAQs and much more.
-- Continuous Support in Comments and on Discord.
+- Continuous Support on Discord.
 - Live voice support.
 - Giveaways. Game Keys/Discord Nitro (Every Week).
 - and much much more join our Discord for more information.
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
-- ![](https://i.imgur.com/tC2r0hV.png)100+ Mods in one click
-- 10+ Clothing Mods
-- 20+ Body Mods
-- 5+ Broom Mods
+- ![](https://i.imgur.com/tC2r0hV.png)100+ Mods in one click.
+- 10+ Clothing Mods.
+- 20+ Body Mods.
+- 5+ Broom Mods.
 - 50+ Custom Wands
-- 25+ Followers/Companions
-- Graphics and Texture Mods
+- 25+ Followers/Companions.
+- Graphics and Texture Mods.
 - Gameplay mods and tweaks.
 - Bug fixes.
 - Quality-of-life improvements.
 - Input mods.
 - Improved UI.
-- In-game Mod Menus
-- In-game Appearance Menu
+- In-game Mod Menus.
+- In-game Appearance Menu.
 - Support for other Modular Expansion Packs.
 
 ![img](https://i.imgur.com/atKF9CF.png)
@@ -275,20 +261,21 @@ Simply delete **ShaderToggler.ini**
 <details><summary>🎮 IN-GAME SETTINGS</summary>
 ![img](https://i.imgur.com/atKF9CF.png)To use (Blueprint Apparate Mod Menu)at the main menu press [F8](https://) on your keyboard to bring up the Menu type **"DekApparateUI"** and hit enter and then restart the game. Now press [F8 ](https://)again here you can enter the commands to enable some of the mods. Copy and paste each of the following codes into the menu and press enter to activate each one.
 
-- ***StudentsCombat***
+- ***Apparition***
 - ***CharacterEditor***
 - ***DualDresser***
-- ***UnEquipWand***
 - ***DekOutfitStudioBETA***
+- ***DekDateTimeHUD***
 - ***FreeLookCamMod***
 - ***FreeFlyMod***
-- ***WalkingMod***
-- ***Apparition***
+- ***MyCollectionChestFinder***
+- ***MyFieldGuidePageFinder***
+- ***QuickSave***
 - ***SkipTime***
-- ***yearlevel***
-- ***AnyTimeC***
-- ***NightCurfew***
 - ***StandUpStraight***
+- ***StoryModeToggler***
+- ***TimeDilator***
+- ***WalkingMod***
 
 **1**) Press [F9](https://) and change the key bind for Unequip Wand to [F1](https://)).
 
@@ -300,7 +287,6 @@ Simply delete **ShaderToggler.ini**
 
 - HOME = Reshade. (OPTIONAL)
 - F1 = Unequip Wand
-- F2 = Toggle Hud. (OPTIONAL)
 - F3 = Walking Mod.
 - F4 = Skip Time.
 - F5 = Character Editor.
@@ -310,21 +296,26 @@ Simply delete **ShaderToggler.ini**
 - F9 = Unequip Wand/Toggle Hood Keybind Edit.
 - J = Outfit Studio.
 - H =  Change House.
-- Left Alt = Free look camera.
-- Alt+O = Any Time Companion.
+- LEFT ALT = Free look camera.
+- ALT+O = Any Time Companion.
+- ALT+F= Toggle Slow Motion.
 - V+V =  Apparation.
+- RIGHT-CTRL = Quick Save
 
-Change your height
+### Time Dilator
 
-- num 0 = ant mode (tiny)
-- num 1-4 = first year to fourth year
-- num 5 = fifth year (vanilla)
-- num 6 = adult height
-- num 7-9 = taller than adult
-- num - = small with a giant head
-- num + = giant mode
+- ALT-NUMPAD8 = Double the current rate at which time passes.
+- ALT-NUMPAD5= Reset the rate at which time passes to the default (1 game day = 48 real minutes).
+- CTRL-NUMPAD5 = Display the current rate at which time passes.
+- CTRL-ALT-NUMPAD5= Set 1 game day = 1 real day.
+- ALT-NUMPAD2= Half the current rate at which time passes.
 
-Reshade controls
+### Story Mode Toggler
+
+- RIGHT\_CTRL       = Toggle Story Mode on/off using the RIGHT CONTROL key.
+- ALT-RIGHT\_CTRL   = Choose the next difficulty option (in the order: Story - Easy - Normal - Hard - Story etc).
+
+### Reshade controls
 
 - End key to toggle main effects
 - Home key to open GUI
@@ -431,7 +422,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
 
 ### School Makeup
 
-![](https://i.imgur.com/2Tr8P52.png)[School Makeup](https://www.nexusmods.com/hogwartslegacy/mods/162?tab=description) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)&#x20;
+![](https://s12.gifyu.com/images/SYVVG.png)[School Makeup](https://www.nexusmods.com/hogwartslegacy/mods/162?tab=description) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)&#x20;
 
 ### Features
 
@@ -441,7 +432,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
 
 ### Gothic Makeup
 
-![](https://i.imgur.com/IO9b0O2.png)[Gothic Makeup](https://www.nexusmods.com/hogwartslegacy/mods/1168) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
+![](https://s10.gifyu.com/images/SYV1F.png)[Gothic Makeup](https://www.nexusmods.com/hogwartslegacy/mods/1168) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
 
 ### Features
 
@@ -476,7 +467,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
 
 ### Improved Dark Arts Deluxe Robes
 
-![](https://i.imgur.com/0Csldea.jpg)[Improved Dark Arts Deluxe Robes](https://www.nexusmods.com/hogwartslegacy/mods/153?tab=description) by [Arbek ](https://www.nexusmods.com/hogwartslegacy/users/70441878?tab=about+me)&#x20;
+![](https://s10.gifyu.com/images/SYtah.png)[Improved Dark Arts Deluxe Robes](https://www.nexusmods.com/hogwartslegacy/mods/153?tab=description) by [Arbek ](https://www.nexusmods.com/hogwartslegacy/users/70441878?tab=about+me)&#x20;
 
 ### Features
 
@@ -486,7 +477,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
 
 ### Pleated Mini Skirts
 
-![](https://i.imgur.com/WKodnYg.png)[Pleated Mini Skirts](https://www.nexusmods.com/hogwartslegacy/mods/1139) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
+![](https://s12.gifyu.com/images/SYVYC.png)[Pleated Mini Skirts](https://www.nexusmods.com/hogwartslegacy/mods/1139) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
 
 ### Features
 
@@ -496,7 +487,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
 
 ### Modern Glasses
 
-![](https://i.imgur.com/kq1PUXO.png)[Modern Glasses](https://www.nexusmods.com/hogwartslegacy/mods/450) by [AzurieWolf](https://https://www.nexusmods.com/Users/175270161?tab=about+me)&#x20;
+![](https://s10.gifyu.com/images/SYVas.png)[Modern Glasses](https://www.nexusmods.com/hogwartslegacy/mods/450) by [AzurieWolf](https://https://www.nexusmods.com/Users/175270161?tab=about+me)&#x20;
 
 ### Features
 
@@ -542,9 +533,66 @@ https://www.youtube.com/watch?v=Wrng3M-QJ90
 - Adds a button into the field guide that lets you switch houses anytime.
 - Adds a button into the field guide that allows you to control the season!!
 - You can now apparate/fast travel to any location, with lore-friendly exceptions such as Hogwarts and unexplored areas.
-- You can now toggle between running, jogging, and walking.
-- Night curfew will make prefects look for the player in between the curfew hours (0am to 7am) inside Hogwarts.\
-  If you are caught, you will be sent back to your common room and will pay a 100 knuts penalty.
+- Speed-up or slow-down the passage of time at the click of a button!
+</details>
+
+***
+
+## Anytime Companion
+
+### ![](https://s12.gifyu.com/images/SYVtW.png)[ANYTIMECOMPANION](https://www.nexusmods.com/hogwartslegacy/mods/841) by [IMrPez](https://www.nexusmods.com/hogwartslegacy/users/65483611)
+
+### Features
+
+> AnyTimeCompanion is a simple mod that allows you to spawn some of your classmates as companions using an In-game menu. Now you can press Alt+O to open the menu and select your companion. You can also dismiss your companion from this menu.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+### [IMPORTANT](https://)
+
+- Make sure you exit the menu through the exit button, NOT esc, this will make the cursor go away, to bring it back just hit esc again.
+- Not all of the companions have spells by default, and balancing can be a bit off.
+
+### [Spawnable Companions](https://)
+
+- Abraham Ronen
+- Adelaide Oakes
+- Aesop Sharp
+- Amit Kakkar
+- Astoria Crickett
+- Charlotte Morrison
+- Cressida Blume
+- Dinah Hecat
+- Duncan Hobhouse
+- Eleazar Fig
+- Everett Clopton
+- Garreth Weasley
+- Imelda Reyes
+- Leander Prewett
+- Lucan Brattleby
+- Matilda Weasley
+- Mirabel Garlick
+- Mudiwa Onai
+- Natsai Onai
+- Nellie Oggspire
+- Nerida Roberts
+- Ominis Gaunt
+- Phineas Black
+- Poppy Sweeting
+- Smanantha Dale
+- Sebastian Sallow
+- Zenobia Noke
+- Feenky
+- Solomon Sallow
+- Anne Sallow
+- Ruth Singer
+- Peeves
+- Nearly Headless Nick
+- Scrope
+- Fastidio
+- Lodgok
+- Sirona
+- Victor Rookwood
+- Chiyo Kogawa
 </details>
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
@@ -554,11 +602,15 @@ https://www.youtube.com/watch?v=Wrng3M-QJ90
 > The collection comes with many quality of life improvements from the small things that annoy you to the user interface of Hogwarts Legacy.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- Adds an animated HUD onto the screen that automatically displays the current day, date, and time of the game world, with coloring based on your chosen house!!
+- Adds an animated HUD onto the screen that automatically displays the current day, date, and time of the game world, with colouring based on your chosen house!!
 - You can now refresh the stock at the vendor in Hogsmeade.
 - You can select sell all at the vendor in Hogsmeade.
 - Casting Revilio won't trigger a voice line.
 - Forces the player-character to stand up straight whenever possible.
+- Toggle Story Mode on/off at the press of a button. Also allows you to change game difficulty without going into the options screen.
+- When you press the RIGHT CTRL hotkey your currently running game will be saved as a MANUAL SAVE, overwriting your oldest manual save.
+- You can now locate the nearest Field Guide Page and map your path to it.
+- Auto-backup your save files by using the v2\_Hogwarts Legacy Saves Backup located in the main game directory.
 </details>
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
@@ -583,59 +635,41 @@ https://www.youtube.com/watch?v=Wrng3M-QJ90
 
 ***
 
-### Anytime Companion
+## Immersive Series
 
-### ![](https://s6.gifyu.com/images/S6maG.jpg)[ANYTIMECOMPANION](https://www.nexusmods.com/hogwartslegacy/mods/841) by [IMrPez](https://www.nexusmods.com/hogwartslegacy/users/65483611)
+[Immersive Classes](https://www.nexusmods.com/hogwartslegacy/mods/1913) & [Immersive Common Rooms](https://www.nexusmods.com/hogwartslegacy/mods/1966) & [Immersive Meals](https://www.nexusmods.com/hogwartslegacy/mods/1912) by [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
 
 ### Features
 
-> AnyTimeCompanion is a simple mod that allows you to spawn some of your classmates as companions using an In-game menu. Now you can press Alt+O to open the menu and select your companion. You can also dismiss your companion from this menu. Make sure you exit the menu through the exit button, NOT esc , this will make the cursor go away, to bring it back just hit esc again.
+> Makes meals in the Great Hall more interesting and immersive.  Common Rooms and Class Schedule are more Immersive.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-**IMPORTANT**\
-Not all of the companions have spells by default, and balancing can be a bit off.\
-\
-\
-**Spawnable Companions - I'll be adding more companions soon, but this is currently the few I added.**\
-**Abraham Ronen**\
-**Adelaide Oakes**\
-**Aesop Sharp**\
-**Amit Kakkar**\
-**Astoria Crickett**\
-**Charlotte Morrison**\
-**Cressida Blume**\
-**Dinah Hecat**\
-**Duncan Hobhouse**\
-**Eleazar Fig**\
-**Everett Clopton**\
-**Garreth Weasley**\
-**Imelda Reyes**\
-**Leander Prewett**\
-**Lucan Brattleby**\
-**Matilda Weasley**\
-**Mirabel Garlick**\
-**Mudiwa Onai**\
-**Natsai Onai**\
-**Nellie Oggspire**\
-**Nerida Roberts**\
-**Ominis Gaunt**\
-**Phineas Black**\
-**Poppy Sweeting**\
-**Smanantha Dale**\
-**Sebastian Sallow**\
-**Zenobia Noke**\
-**Feenky**\
-**Solomon Sallow**\
-**Anne Sallow**\
-**Ruth Singer**\
-**Peeves**\
-**Nearly Headless Nick**\
-**Scrope**\
-**Fastidio**\
-**Lodgok**\
-**Sirona**\
-**Victor Rookwood**\
-**Chiyo Kogawa**
+### [Immersive Classes](https://www.nexusmods.com/hogwartslegacy/mods/1913)
+
+- Students and Professors attend up to 8 classes per day.
+- Prefects assist with classes. When the Prof is on a quest the Prefect supervises the class.
+- When students have a free period they will socialise in a common area somewhere near the next class.
+- When students have nothing else to do they sometimes arrive early for a class.
+- Professors gather in the Faculty Staff Room after dinner (2000-2200).
+- Professors go to their bedrooms at midnight (or earlier if they have nothing else to do).
+
+### [Immersive Common Rooms](https://www.nexusmods.com/hogwartslegacy/mods/1966)
+
+- Common Rooms are busy at certain times of the day, and quiet at others.
+- Students leave the Common Rooms to attend meals.
+- Named NPCs actually spend time in the Common Rooms.
+- Young students are present in all the Common Rooms.
+- In the evening students change into pyjamas.
+
+### [Immersive Meals](https://www.nexusmods.com/hogwartslegacy/mods/1912)
+
+- Young students now attend meals.
+- Named NPCs now attend some meals (though they don't sit down).
+- Meal times now match the meal sound FX (students chatting and eating).
+- Professors will attend meals.
+- Ghosts now attend breakfast & dinner (not lunch). Some pretend to eat. Others just stand chatting.
+- When mealtime ends, Professors and some students actually get up and leave (mostly the more rule-abiding younger students).
+- Some students use the Great Hall for "self-study" and socialising between meals (like we see in the HP movies). Food is sometimes provided.
 </details>
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
@@ -644,7 +678,7 @@ Not all of the companions have spells by default, and balancing can be a bit off
 
 > Over 50 custom wands to choose from and diffrent combat elements will enahance the replay ability of Hogwarts Legacy.
 
-⛔ \***NOTE** All wands are enabled by default if you install **"all optional mods"** remember to disable all but one.
+⛔ (**IMPORTANT)** All wands are enabled by default if you install **"all optional mods"** remember to disable all but one.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - 52 Custom Wands.
@@ -659,7 +693,7 @@ Not all of the companions have spells by default, and balancing can be a bit off
 
 ### The Ultimate Wand Collection
 
-![](https://i.imgur.com/PA2stYG.png)[The Ultimate Wand Collection](https://www.nexusmods.com/hogwartslegacy/mods/1208?tab=description) by [Rosestorm](https://www.nexusmods.com/hogwartslegacy/users/3158793)&#x20;
+![](https://s12.gifyu.com/images/SYVro.png)[The Ultimate Wand Collection](https://www.nexusmods.com/hogwartslegacy/mods/1208?tab=description) by [Rosestorm](https://www.nexusmods.com/hogwartslegacy/users/3158793)&#x20;
 
 ### Features
 
@@ -681,7 +715,7 @@ Not all of the companions have spells by default, and balancing can be a bit off
 
 ***
 
-![](https://i.imgur.com/IHIOPqT.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868)&#x20;
+![](https://s10.gifyu.com/images/SYVOC.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868)&#x20;
 
 ### Features
 
@@ -691,9 +725,12 @@ Not all of the companions have spells by default, and balancing can be a bit off
 
 ![](https://s12.gifyu.com/images/MOD-TOOLS.png)
 
-\***Note** for Advanced users only. These tools are included in the collection and can be found in your main game directory.
+⛔For Advanced users only. These tools are included in the collection and can be found in your main game directory.
 
-- Hogwarts Mod Merger. Details can be found [HERE](https://www.nexusmods.com/hogwartslegacy/mods/178).
+- [Hogwarts Mod Merger](https://www.nexusmods.com/hogwartslegacy/mods/178).&#x20;
+- [PakChunk Checker](https://www.nexusmods.com/hogwartslegacy/mods/1437).
+- [Mod Localization Checker](https://www.nexusmods.com/hogwartslegacy/mods/1986).
+- [ListPaks Diagnosis Tool](https://www.nexusmods.com/hogwartslegacy/mods/1908).
 
 ![](https://i.imgur.com/atKF9CF.png)
 
@@ -718,7 +755,7 @@ Not all of the companions have spells by default, and balancing can be a bit off
 
 ***
 
-## ![](https://s6.gifyu.com/images/S6yPp.jpg)[Goblet Easy.](https://www.nexusmods.com/hogwartslegacy/mods/702)
+## ![](https://s10.gifyu.com/images/Sr24b.png)[Goblet Easy.](https://www.nexusmods.com/hogwartslegacy/mods/702)
 
 This has more of a focus on the story with some buffs to make it a bit easier. And my Immersive Tweaks Pack.
 
@@ -726,11 +763,11 @@ This has more of a focus on the story with some buffs to make it a bit easier. A
 ### Levelling.
 
 Double XP
-Adds a high chance to drop legendary items from human enemies.
+Adds a high chance of dropping legendary items from human enemies.
 
 ### Distances
 
-- Increased the distance of Incedio to match the other attacks.\Increased the distance of Revilo by 50% and duration doubled.
+- Increased the distance of Incedio to match the other attacks the distance of Revilo by 50% and the duration doubled.
 
 ### Inventories.
 
@@ -770,13 +807,15 @@ Adds a high chance to drop legendary items from human enemies.
 - Perfect parry (protego)
 - Basic Casting balance- All four basic casts do the same amount of damage each.\vanilla damage: 40 + 40 + 40 + 307 = 427\modded damage: 106 + 106 + 106 + 106 = 424
 - Removed all spell cooldowns making them immediately available after casting.
+
+### of dropping
 </details>
 
 ###
 
 ***
 
-## ![](https://s6.gifyu.com/images/S6yPx.jpg)[Goblet Vanilla Balanced.](https://www.nexusmods.com/hogwartslegacy/mods/702)
+## ![](https://s10.gifyu.com/images/Sr24M.png)[Goblet Vanilla Balanced.](https://www.nexusmods.com/hogwartslegacy/mods/702)
 
 This is the vanilla game with balanced difficulty. And my Immersive Tweaks Pack.
 This is my recommended Preset.
@@ -806,20 +845,41 @@ This is my recommended Preset.
 - Unlocked all conjurable items.
 - Change the size of all conjurable items.
 - Change the colour of all conjurable items.
+
+### Immersion by [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
+
+- Students and Professors attend up to 8 classes per day.
+- Prefects assist with classes. When the Prof is on a quest the Prefect supervises the class.
+- When students have a free period they will socialise in a common area somewhere near the next class.
+- When students have nothing else to do they sometimes arrive early for a class.
+- Professors gather in the Faculty Staff Room after dinner (2000-2200).
+- Professors go to their bedrooms at midnight (or earlier if they have nothing else to do).
+- Common Rooms are busy at certain times of the day, and quiet at others.
+- Students leave the Common Rooms to attend meals.
+- Named NPCs actually spend time in the Common Rooms.
+- Young students are present in all the Common Rooms.
+- In the evening students change into pyjamas.
+- Young students now attend meals.
+- Named NPCs now attend some meals (though they don't sit down).
+- Meal times now match the meal sound FX (students chatting and eating).
+- Professors will attend meals.
+- Ghosts now attend breakfast & dinner (not lunch). Some pretend to eat. Others just stand chatting.
+- When mealtime ends, Professors and some students actually get up and leave (mostly the more rule-abiding younger students).
+- Some students use the Great Hall for "self-study" and socialising between meals (like we see in the HP movies). Food is sometimes provided.
 </details>
 
 ###
 
 ***
 
-## ![](https://s6.gifyu.com/images/S6yPz.jpg)[Goblet Vanilla Balanced+Vivarium.](https://www.nexusmods.com/hogwartslegacy/mods/702)
+## ![](https://s10.gifyu.com/images/Sr24p.png)[Goblet Vanilla Balanced+Vivarium.](https://www.nexusmods.com/hogwartslegacy/mods/702)
 
-This is the vanilla game with balanced difficulty+Vivarium upgrades. And my Immersive Tweaks Pack.
+This is the vanilla game with balanced difficulty and vivarium upgrades. And my Immersive Tweaks Pack.
 
 <details><summary>CLICK FOR DETAILS</summary>
 ### Levelling.
 
-- Adds a low chance to drop legendary items from human enemies.
+- Adds a low chance of dropping legendary items from human enemies.
 
 ### Inventories.
 
@@ -850,13 +910,34 @@ This is the vanilla game with balanced difficulty+Vivarium upgrades. And my Imme
 - Unlocked all conjurable items.
 - Change the size of all conjurable items.
 - Change the colour of all conjurable items.
+
+### Immersion by [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
+
+- Students and Professors attend up to 8 classes per day.
+- Prefects assist with classes. When the Prof is on a quest the Prefect supervises the class.
+- When students have a free period they will socialise in a common area somewhere near the next class.
+- When students have nothing else to do they sometimes arrive early for a class.
+- Professors gather in the Faculty Staff Room after dinner (2000-2200).
+- Professors go to their bedrooms at midnight (or earlier if they have nothing else to do).
+- Common Rooms are busy at certain times of the day, and quiet at others.
+- Students leave the Common Rooms to attend meals.
+- Named NPCs actually spend time in the Common Rooms.
+- Young students are present in all the Common Rooms.
+- In the evening students change into pyjamas.
+- Young students now attend meals.
+- Named NPCs now attend some meals (though they don't sit down).
+- Meal times now match the meal sound FX (students chatting and eating).
+- Professors will attend meals.
+- Ghosts now attend breakfast & dinner (not lunch). Some pretend to eat. Others just stand chatting.
+- When mealtime ends, Professors and some students actually get up and leave (mostly the more rule-abiding younger students).
+- Some students use the Great Hall for "self-study" and socialising between meals (like we see in the HP movies). Food is sometimes provided.
 </details>
 
 ###
 
 ***
 
-## ![](https://s6.gifyu.com/images/S6yPb.jpg)[Goblet Nightmare.](https://www.nexusmods.com/hogwartslegacy/mods/702)
+## ![](https://s10.gifyu.com/images/Sr2gX.png)[Goblet Nightmare.](https://www.nexusmods.com/hogwartslegacy/mods/702)
 
 And my Immersive Tweaks Pack.
 You will wish you didn't install this.
@@ -903,17 +984,38 @@ Select Hard mode from the in-game menu.
 - Cooldown: 12s - Default 8s-
 - Reduced Duration Enemy: 5s - Default 8s-
 - Increased Duration Player: 5s - Default 3s
+
+### Immersion by [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
+
+- Students and Professors attend up to 8 classes per day.
+- Prefects assist with classes. When the Prof is on a quest the Prefect supervises the class.
+- When students have a free period they will socialise in a common area somewhere near the next class.
+- When students have nothing else to do they sometimes arrive early for a class.
+- Professors gather in the Faculty Staff Room after dinner (2000-2200).
+- Professors go to their bedrooms at midnight (or earlier if they have nothing else to do).
+- Common Rooms are busy at certain times of the day, and quiet at others.
+- Students leave the Common Rooms to attend meals.
+- Named NPCs actually spend time in the Common Rooms.
+- Young students are present in all the Common Rooms.
+- In the evening students change into pyjamas.
+- Young students now attend meals.
+- Named NPCs now attend some meals (though they don't sit down).
+- Meal times now match the meal sound FX (students chatting and eating).
+- Professors will attend meals.
+- Ghosts now attend breakfast & dinner (not lunch). Some pretend to eat. Others just stand chatting.
+- When mealtime ends, Professors and some students actually get up and leave (mostly the more rule-abiding younger students).
+- Some students use the Great Hall for "self-study" and socialising between meals (like we see in the HP movies). Food is sometimes provided.
 </details>
 
 ###
 
 ***
 
-## ![](https://s6.gifyu.com/images/S6yPs.png)[Goblet Unlock All.](https://www.nexusmods.com/hogwartslegacy/mods/702)
+## ![](https://s12.gifyu.com/images/Sr24z.png)[Goblet Unlock All.](https://www.nexusmods.com/hogwartslegacy/mods/702)
 
 This is the vanilla balanced and vivarium preset but with all spells and broom upgrades unlocked.
 And my Immersive Tweaks Pack.
-⛔ Only use this on a new Save.
+⛔ Only use this on a new Save.  This preset can be buggy make sure to back up your save.
 
 <details><summary>CLICK FOR DETAILS</summary>
 ### World.
@@ -963,14 +1065,33 @@ And my Immersive Tweaks Pack.
 
 - Unlock all 3 broom upgrades.
 
-### Note This preset can be buggy make sure to back up your save.
+### Immersion by [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
+
+- Students and Professors attend up to 8 classes per day.
+- Prefects assist with classes. When the Prof is on a quest the Prefect supervises the class.
+- When students have a free period they will socialise in a common area somewhere near the next class.
+- When students have nothing else to do they sometimes arrive early for a class.
+- Professors gather in the Faculty Staff Room after dinner (2000-2200).
+- Professors go to their bedrooms at midnight (or earlier if they have nothing else to do).
+- Common Rooms are busy at certain times of the day, and quiet at others.
+- Students leave the Common Rooms to attend meals.
+- Named NPCs actually spend time in the Common Rooms.
+- Young students are present in all the Common Rooms.
+- In the evening students change into pyjamas.
+- Young students now attend meals.
+- Named NPCs now attend some meals (though they don't sit down).
+- Meal times now match the meal sound FX (students chatting and eating).
+- Professors will attend meals.
+- Ghosts now attend breakfast & dinner (not lunch). Some pretend to eat. Others just stand chatting.
+- When mealtime ends, Professors and some students actually get up and leave (mostly the more rule-abiding younger students).
+- Some students use the Great Hall for "self-study" and socialising between meals (like we see in the HP movies). Food is sometimes provided.
 </details>
 
 ###
 
 ***
 
-## ![](https://s6.gifyu.com/images/S6yPL.jpg)[Goblet Inventory Booster.](https://www.nexusmods.com/hogwartslegacy/mods/702)
+## ![](https://s10.gifyu.com/images/Sr24S.png)[Goblet Inventory Booster.](https://www.nexusmods.com/hogwartslegacy/mods/702)
 
 This is the Vanilla game with Expanded inventory
 And my Immersive Tweaks Pack.
@@ -992,33 +1113,65 @@ And my Immersive Tweaks Pack.
 ### Conjured items.
 
 - Added 100 slots to all conjured items.
+
+### Immersion by [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
+
+- Students and Professors attend up to 8 classes per day.
+- Prefects assist with classes. When the Prof is on a quest the Prefect supervises the class.
+- When students have a free period they will socialise in a common area somewhere near the next class.
+- When students have nothing else to do they sometimes arrive early for a class.
+- Professors gather in the Faculty Staff Room after dinner (2000-2200).
+- Professors go to their bedrooms at midnight (or earlier if they have nothing else to do).
+- Common Rooms are busy at certain times of the day, and quiet at others.
+- Students leave the Common Rooms to attend meals.
+- Named NPCs actually spend time in the Common Rooms.
+- Young students are present in all the Common Rooms.
+- In the evening students change into pyjamas.
+- Young students now attend meals.
+- Named NPCs now attend some meals (though they don't sit down).
+- Meal times now match the meal sound FX (students chatting and eating).
+- Professors will attend meals.
+- Ghosts now attend breakfast & dinner (not lunch). Some pretend to eat. Others just stand chatting.
+- When mealtime ends, Professors and some students actually get up and leave (mostly the more rule-abiding younger students).
+- Some students use the Great Hall for "self-study" and socialising between meals (like we see in the HP movies). Food is sometimes provided.
 </details>
 
 ###
 
 ***
 
-## ![](https://s6.gifyu.com/images/S6yPv.jpg)[Immersive Tweaks Pack.](https://www.nexusmods.com/hogwartslegacy/mods/702)
+## ![](https://s10.gifyu.com/images/Sr2ge.png)[Immersive Tweaks Pack.](https://www.nexusmods.com/hogwartslegacy/mods/702)
 
 This is just my Immersive Tweaks Pack to go with the vanilla game.
 
 <details><summary>CLICK FOR DETAILS</summary>
-### World.
+### Immersion by [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
 
-Train Times increased to every day and three more times a day.
-
-- 6  am - 10 am - 2  pm - 6  pm - 10 pm
-
-### Later Curfew.
-
-- Student's curfew in the game is 8. pm but in the lore of Hogwarts curfew is 10 pm. So this extends the vanilla curfew by 2 hours.
+- Students and Professors attend up to 8 classes per day.
+- Prefects assist with classes. When the Prof is on a quest the Prefect supervises the class.
+- When students have a free period they will socialise in a common area somewhere near the next class.
+- When students have nothing else to do they sometimes arrive early for a class.
+- Professors gather in the Faculty Staff Room after dinner (2000-2200).
+- Professors go to their bedrooms at midnight (or earlier if they have nothing else to do).
+- Common Rooms are busy at certain times of the day, and quiet at others.
+- Students leave the Common Rooms to attend meals.
+- Named NPCs actually spend time in the Common Rooms.
+- Young students are present in all the Common Rooms.
+- In the evening students change into pyjamas.
+- Young students now attend meals.
+- Named NPCs now attend some meals (though they don't sit down).
+- Meal times now match the meal sound FX (students chatting and eating).
+- Professors will attend meals.
+- Ghosts now attend breakfast & dinner (not lunch). Some pretend to eat. Others just stand chatting.
+- When mealtime ends, Professors and some students actually get up and leave (mostly the more rule-abiding younger students).
+- Some students use the Great Hall for "self-study" and socialising between meals (like we see in the HP movies). Food is sometimes provided.
 </details>
 
 ###
 
 ***
 
-## ![](https://s6.gifyu.com/images/S6yPM.jpg)[Goblet No Cooldowns](https://www.nexusmods.com/hogwartslegacy/mods/702)
+## ![](https://s10.gifyu.com/images/Sr242.png)[Goblet No Cooldowns](https://www.nexusmods.com/hogwartslegacy/mods/702)
 
 ###  
 
@@ -1030,6 +1183,27 @@ Train Times increased to every day and three more times a day.
 - **Perfect parry (protego)**
 - **Basic Casting balance- All four basic casts do the same amount of damage each.**\\**vanilla damage: 40 + 40 + 40 + 307 = 427**\\**modded damage: 106 + 106 + 106 + 106 = 424**
 - **Removed all spell cooldowns making them immediately available after casting.**
+
+### Immersion by [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
+
+- Students and Professors attend up to 8 classes per day.
+- Prefects assist with classes. When the Prof is on a quest the Prefect supervises the class.
+- When students have a free period they will socialise in a common area somewhere near the next class.
+- When students have nothing else to do they sometimes arrive early for a class.
+- Professors gather in the Faculty Staff Room after dinner (2000-2200).
+- Professors go to their bedrooms at midnight (or earlier if they have nothing else to do).
+- Common Rooms are busy at certain times of the day, and quiet at others.
+- Students leave the Common Rooms to attend meals.
+- Named NPCs actually spend time in the Common Rooms.
+- Young students are present in all the Common Rooms.
+- In the evening students change into pyjamas.
+- Young students now attend meals.
+- Named NPCs now attend some meals (though they don't sit down).
+- Meal times now match the meal sound FX (students chatting and eating).
+- Professors will attend meals.
+- Ghosts now attend breakfast & dinner (not lunch). Some pretend to eat. Others just stand chatting.
+- When mealtime ends, Professors and some students actually get up and leave (mostly the more rule-abiding younger students).
+- Some students use the Great Hall for "self-study" and socialising between meals (like we see in the HP movies). Food is sometimes provided.
 </details>
 
 ###
@@ -1112,7 +1286,9 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus & Hogwarts Legacy Discord.
 
-- trademarks
+- v2s Collections Team
+- [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
+- [Dekita](https://www.nexusmods.com/hogwartslegacy/users/51283421)
 - [Narknon](https://www.nexusmods.com/hogwartslegacy/users/4196370)
 - [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
 - [yakuzadeso](https://www.nexusmods.com/users/63907421?_gl=1%2A2s3zjx%2A_ga%2AOTk3OTU4MDIzLjE2NDc1NDI0NDU.%2A_ga_N0TELNQ37M%2AMTY3OTQwODI0NC4zNzYuMS4xNjc5NDEwMTY3LjAuMC4w\&tab=about+me)

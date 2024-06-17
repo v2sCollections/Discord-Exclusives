@@ -1,10 +1,10 @@
-### ✅&#x20;
+### **✅Compatible With June 6th Patch**
 
-![](https://s11.gifyu.com/images/Border.jpg)Hey, [v2](https://www.nexusmods.com/users/123334373) here this is [THE GOBLET Wand Pack](https://) for **Hogwarts Legacy**.
+![](https://s10.gifyu.com/images/Sr26L.png)Hey, [v2](https://www.nexusmods.com/users/123334373) here this is [THE GOBLET Wand Pack](https://) for **Hogwarts Legacy**.
 
 These are all the Wand mods in one easy pack this is intended as an add-on pack for our main [GOBLET](https://next.nexusmods.com/hogwartslegacy/collections/uehwil)  collection but can be installed with any collection or mods you have as long as you disable any other wand mods you have.
 
-This is an [85](https://)+ Wand Collection it has been put together in a way that you can customize it to your liking you can toggle off/on what Wands you don't want in **Vortex.**
+This is an [70](https://)+ Wand Collection it has been put together in a way that you can customize it to your liking you can toggle off/on what Wands you don't want in **Vortex.**
 
 ![](https://i.imgur.com/xAjxh3J.png)
 
@@ -14,17 +14,16 @@ This is an [85](https://)+ Wand Collection it has been put together in a way tha
 2. What Is Included❓
 3. Read before installing❗
 4. Installation.
-5. Troubleshooting.
-6. Mod Settings and Overview.
-7. Modding The Collection.
-8. Compatible Collections.
-9. Support The Curators and Modders.
+5. Mod Settings and Overview.
+6. Modding The Collection.
+7. Compatible Collections.
+8. Support The Curators and Modders.
 
 ![](https://i.imgur.com/xAjxh3J.png)
 
 ![](https://i.imgur.com/tC2r0hV.png)
 
-- 85+ Wand mods.
+- 70+ Wand mods.
 - Wand Handles.
 
 ![img](https://i.imgur.com/atKF9CF.png)
@@ -72,66 +71,9 @@ https://www.youtube.com/watch?v=8KyTd3YAaUM
 
 ![](https://i.imgur.com/xAjxh3J.png)
 
-![](https://i.imgur.com/MaSQ33O.png)
-
-**⛔STOP** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Windows, Hogwarts Legacy, or the collection when you see errors on Vortex.
-
-- You can find the full Troubleshooting list on our[ Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting FAQ](https://github.com/2077v2/Goblet/blob/main/Troubleshooting%20FAQ.md).
-- You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/v2sCollections/Discord-Exclusives/blob/main/Hogwarts%20Legacy-The%20Goblet/Guides.md).
-
-## FAQ
-
-<details><summary>CLICK HERE FOR COMMON FAQs</summary>
-## [Where is the game located](https://)❓
-
-```
-GOG users>   Drive Letter\GOGLibrary\Games\Hogwarts Legacy
-Steam users> Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy
-Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy
-```
-
-## [I've installed the collection but my game crashes when I create a character](https://)❓
-
-- This is most likely because you have two or more non-compatible mods enabled ie**MAKEUP**, **CUSTOM PLAYER FACES**, **WANDS**check the mod settings and overview section.
-
-## [My game is crashing ❓ ](https://)
-
-- If you are crashing or items are not working properly this is because you have 2 conflicting mods.  At this stage, there is no way to fix this due to the way the files work in the game. To fix these issues you need to determine which mods are affected and then uninstall one of them.
-
-## [Evanesco](https://)
-
-Always double-check Vortex to make sure it uninstalled/installed something properly during an update. If you are having any issues with crashing or mods not loading you can do the following.
-
-### AUTO
-
-Download my mod to run a script to do this for you get it [HERE ](https://www.nexusmods.com/hogwartslegacy/mods/1524)
-
-### MANUAL
-
-Click [HERE](https://youtu.be/RT7w9LDec1I)  to watch our tutorial video.
-
-**1**) Go to the following destination after you update the collection.
-
-```
-Steam users> Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks/~mods
-GOG users>   Drive Letter\GOGLibrary\Games\Hogwarts Legacy\Phoenix\Content\Paks~mods
-Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
-```
-
-**2**) In the mods folder, you will see all of the installed mods.
-
-**3**) Once in your mod folder, we want to open up Vortex at the top on the mods tab you will see "purge mods" select this.
-
-**4**) Now, look back in the mods folder again all of the mods should have been removed if there are any left behind select them and delete them.
-
-**5**) Go back to Vortex and at the top of the mods tab you will see "Deploy" Select this and now all of the up-to-date mods should be placed back in your mods folder.
-</details>
-
-![](https://i.imgur.com/xAjxh3J.png)
-
 ![](https://i.imgur.com/IqyYRkU.png)
 
-Check out the full breakdown of all the mods included in the Collection
+Check out the full breakdown of all the mods included in the Collection [HERE](https://github.com/v2sCollections/Discord-Exclusives/blob/main/Hogwarts%20Legacy-The%20Goblet/Goblet%20Wand%20Pack/Mod%20List.md).
 
 ***
 
@@ -242,6 +184,8 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus & Hogwarts Legacy Discord.
 
 - v2s Collections Team
+- [icouldifiwantedto](https://www.nexusmods.com/hogwartslegacy/users/36914095)
+- [Dekita](https://www.nexusmods.com/hogwartslegacy/users/51283421)
 - [Narknon](https://www.nexusmods.com/hogwartslegacy/users/4196370)
 - [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
 - [yakuzadeso](https://www.nexusmods.com/users/63907421?_gl=1%2A2s3zjx%2A_ga%2AOTk3OTU4MDIzLjE2NDc1NDI0NDU.%2A_ga_N0TELNQ37M%2AMTY3OTQwODI0NC4zNzYuMS4xNjc5NDEwMTY3LjAuMC4w\&tab=about+me)
