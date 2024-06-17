@@ -194,7 +194,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy
 </details>
 
 <details><summary>7️⃣ OPTIONAL MODS</summary>
-![img](https://i.imgur.com/atKF9CF.png)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+![img](https://i.imgur.com/atKF9CF.png)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process.
 
 ## [Reshade](https://)
 
@@ -227,33 +227,6 @@ I have added this Reshade below.
 
 **End** key to toggle main effects\
 **Home** key to open GUI
-
-## [Toggle HUD](https://)
-
-This mod simply allows you to quickly toggle all HUD elements on/off with a single key press (Caps Lock by default, but this can be changed).
-
-**WHAT YOU NEED**
-
-- The latest version of ReShade **with full add-on support** (second option) from [here﻿﻿](https://reshade.me/#download)﻿
-- The latest version of ﻿ShaderToggler (first zip, not the x86 version) from [GitHub﻿](https://github.com/FransBouma/ShaderToggler/releases)﻿
-
-**INSTALLATION**
-
-**1**) Place the **Shader Toggler** **addon** you downloaded from [GitHub﻿](https://github.com/FransBouma/ShaderToggler/releases) into the folder below.
-
-```
-Steam users>  Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy\Phoenix\Binaries\Win64
-GOG users>    Drive Letter\GOGLibrary\Games\Hogwarts Legacy\Phoenix\Binaries\Win64
-Epic users >  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Binaries\Win64
-```
-
-**2**) Launch the game and use \*\*\*Caps Lock \*\*\*to toggle the HUD on/off
-
-**TO CHANGE THE TOGGLE HUD KEYBIND:**\
-While in-game press the Home key to bring up the Reshade UI, go to the "Add-ons" tab, and select "Edit" under ShaderToggler to pick a new hotkey. Click "OK", then "OK" again, then finally "Save all Toggle Groups".
-
-**TO UNINSTALL:**\
-Simply delete **ShaderToggler.ini**
 
 ![img](https://i.imgur.com/atKF9CF.png)
 </details>
