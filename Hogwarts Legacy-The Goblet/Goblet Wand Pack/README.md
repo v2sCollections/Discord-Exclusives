@@ -1,4 +1,4 @@
-### **✅Compatible With June 6th Patch**
+### **✅Compatible With July 2024 Patch**
 
 ![](https://s10.gifyu.com/images/Sr26L.png)Hey, [v2](https://www.nexusmods.com/users/123334373) here this is [THE GOBLET Wand Pack](https://) for **Hogwarts Legacy**.
 

@@ -1,4 +1,4 @@
-### **✅Compatible With June 6th Patch**
+### **✅Compatible With July 2024 Patch**
 
 https://www.youtube.com/watch?v=\_94nFCwEh4o
 
@@ -231,26 +231,20 @@ I have added this Reshade below.
 ![img](https://i.imgur.com/atKF9CF.png)
 </details>
 
+<details><summary>MOD ACTIVATION</summary>
+![](https://i.imgur.com/atKF9CF.png)**1**) In Vortex select the **"Mods"** tab.
+
+**2**) Now select **"Open"** and then select **"Open Save Game Folder"** and leave this window open.
+
+![](https://s12.gifyu.com/images/S5xkG.png)**3**) Open your main Hogwarts Legacy game directory and locate and open the **"Goblet Readme"** folder.
+
+**4**) Copy and paste the ***"ModLoaderSaves.sav"*** file into the save game folder we opened earlier. Make sure to overwrite when asked.
+
+![](https://i.imgur.com/atKF9CF.png)
+</details>
+
 <details><summary>🎮 IN-GAME SETTINGS</summary>
-![img](https://i.imgur.com/atKF9CF.png)To use (Blueprint Apparate Mod Menu)at the main menu press [F8](https://) on your keyboard to bring up the Menu type **"DekApparateUI"** and hit enter and then restart the game. Now press [F8 ](https://)again here you can enter the commands to enable some of the mods. Copy and paste each of the following codes into the menu and press enter to activate each one.
-
-- ***Apparition***
-- ***CharacterEditor***
-- ***DualDresser***
-- ***DekOutfitStudioBETA***
-- ***DekDateTimeHUD***
-- ***FreeLookCamMod***
-- ***FreeFlyMod***
-- ***MyCollectionChestFinder***
-- ***MyFieldGuidePageFinder***
-- ***QuickSave***
-- ***SkipTime***
-- ***StandUpStraight***
-- ***StoryModeToggler***
-- ***TimeDilator***
-- ***WalkingMod***
-
-**1**) Press [F9](https://) and change the key bind for Unequip Wand to [F1](https://)).
+![img](https://i.imgur.com/atKF9CF.png)**1**) Launch the game and press [F9](https://) and change the key bind for Unequip Wand to [F1](https://)).
 
 ![img](https://i.imgur.com/atKF9CF.png)
 </details>
