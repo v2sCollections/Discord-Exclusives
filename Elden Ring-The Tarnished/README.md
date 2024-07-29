@@ -1,4 +1,4 @@
-### **✅Compatible with Game version 1.10.1**
+### ✅Compatible with Patch 1.12.3                                                                     ✅ **Compatible** with or without DLC
 
 ![](https://s11.gifyu.com/images/Suhls.jpg)Hey v2 here this is The [Tarnished](https://) for Elden Ring.
 
@@ -24,47 +24,36 @@ So join us choombah and come along for the ride.
 This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 </details>
 
-![](https://s10.gifyu.com/images/S4aAS.jpg)
-
-# [Contents:](https://)
-
-1. Why This Collection❓
-2. What Is Included❓
-3. Read before installing❗
-4. Installation.
-5. Troubleshooting.
-6. Mod Settings and Overview.
-7. Modding The Collection.
-8. System Requirements.
-9. Support The Curators and Modders.
-
-![](https://s10.gifyu.com/images/S4aAS.jpg)
+![](https://s12.gifyu.com/images/S5KaK.png)
 
 ![](https://s12.gifyu.com/images/SuhdB.png)
 
 [![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/v2-s-collections-1076179431195955290)
 
+- Nearly all the mods in this collection have been restructured/modified so that they are loaded correctly, the collection truly is plug-and-play.
 - These are the best mods from the best authors and are a must-have to immerse yourself in Elden Ring.
 - The most exstensive mod collection on Nexus for Elden Ring.
 - Easy to follow step-by-step installation guide.
-- Only-[1](https://)GB in download size for [35+](https://) mods.
+- Only-[1](https://)GB in download size for [50](https://)+ mods. Optional Mods add another [96](https://)GB.
 - Continuous Support in Comments and on Discord.
-- Live voice support.
-- Nexus Premium Giveaways (Every Week).
+- Live voice **Support**.
+- **Giveaways**. Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
 ![](https://s10.gifyu.com/images/S4aAS.jpg)
 
-- ![](https://s12.gifyu.com/images/SuhlM.png)35+ Mods in one click.
+- ![](https://s12.gifyu.com/images/SuhlM.png)50+ Mods in one click.
 - First-Person Mode.
 - Co-Op Mode.
 - Weapon and Armor Mods.
+- Transmog System.
 - Graphics Mods.
 - Gameplay mods and tweaks.
 - Bug fixes.
 - Quality-of-life improvements.
 - Input mods.
 - Improved UI.
+- Custom Themed UI.
 - Cheat Engine Script.
 - Save Game Editor.
 
@@ -296,8 +285,15 @@ Turn off Ray Tracing.
 
 ![](https://s11.gifyu.com/images/SugDm.png)
 
-![](https://s12.gifyu.com/images/Suv8Q.png)
+### ![](https://s12.gifyu.com/images/Suv8Q.png)Features
 
+> The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade Elden Ring has never looked better.
+>
+> ⛔**NOTE** that some of these will eat your VRAM I recommend a minimum [8](https://) GB GPU. If you notice stuttering or any texture issues then disable a few of the 4K Textures in Vortex.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Reshade included.
+- Reshade Preset included.
 - Ultrawide fix.
 - No chromatic aberration.
 - No vignette.
@@ -305,23 +301,83 @@ Turn off Ray Tracing.
 - Increased field of view (FOV)
 - The framerate is unlocked.
 
-![](https://s11.gifyu.com/images/SugDm.png)
+### [Upscaled Videos Include](https://)
 
-![](https://s11.gifyu.com/images/Su7a4.png)
+-
 
-- 10+ Outfits/Armour.
-- 5+ New hairstyles.
+### [Upscaled Textures Include](https://)
+
+- Armours.
+- NPCs.
+- Weapons.
+- Architecture.
+- Flora.
+- Landscape.
+- Misc.
+- Mountains.
+- Sky and Clouds.
+</details>
 
 ***
+
+## Themed UI
+
+![](https://s10.gifyu.com/images/S5uNH.png)[Melina's Flaming UI](https://www.nexusmods.com/eldenring/mods/5716) & [Ranni's Magical UI](https://) by [vShiny](https://www.nexusmods.com/eldenring/users/152569748)
+
+### Features
+
+> Choose from 2 diffrent UI Themes.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+### [Melina's Flaming UI](https://)
+
+- Only SFW Images
+- Includes All DLC Icons, you won't see any placeholder text
+- Main Menu image
+- Red UI Elements
+- Menu Backgrounds
+- Inventory background
+- Custom Graces and Map Elements
+
+### [Ranni's Magical UI](https://)
+
+- Only SFW Images
+- Includes All DLC Icons, you won't see any placeholder text
+- Main Menu image
+- Blue UI Elements
+- Menu Backgrounds
+- Inventory background
+- Custom Graces and Map Elements
+- 10 custom loading screens
+</details>
+
+![](https://s11.gifyu.com/images/SugDm.png)
+
+### ![](https://s11.gifyu.com/images/Su7a4.png)Features
+
+> Many custom outfits to choose from.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- 15+ Outfits/Armour.
+- 5+ New hairstyles.
+</details>
+
+***
+
+## CUSTOM ARMOUR
 
 ![](https://s12.gifyu.com/images/SuIjL.png)[Custom Armour](https://www.nexusmods.com/eldenring/users/98505798) By [goxila](https://www.nexusmods.com/eldenring/users/98505798)
 
 ![](https://s11.gifyu.com/images/SugDm.png)
 
-![](https://s11.gifyu.com/images/SuvuH.png)
+## ![](https://s11.gifyu.com/images/SuvuH.png)Features
 
+> The collection comes with many improvements and adjustments to the core gameplay of Elden Ring.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - No rune loss after death.
 - Randomize bosses, enemies, and items, including key items and shops.
+</details>
 
 ***
 
@@ -331,7 +387,7 @@ https://www.youtube.com/watch?v=nuau\_lZ0Imc
 
 [First Person Souls - Full Game Conversion](https://www.nexusmods.com/eldenring/mods/3266?tab=description) by [Dasaav](https://www.nexusmods.com/eldenring/users/173120428). You can activate the first person with your lock-on key.
 
-### Features
+## Features
 
 > Travel to the Lands Betweenseen from an entirely new perspectivewith your own eyes First Person Souls offers a unique opportunity to experience Elden Ring like you have never before.
 
@@ -345,7 +401,7 @@ https://www.youtube.com/watch?v=lHKuJO9nK-8
 
 [Seamless Co-op](https://www.nexusmods.com/eldenring/mods/510?tab=description) by [LukeYui](https://www.nexusmods.com/eldenring/users/49594931). You can set your co-op password by clicking the icon in the top left-hand corner of Vortex after you have enabled the tools bar.&#x20;
 
-### Features
+## Features
 
 > Simply put, the mod allows you to play with friends throughout the entirety of the game with no restrictions. With this, it's theoretically possible to play the game from the tutorial up to the final boss completely in one co-op session.
 
@@ -372,12 +428,16 @@ https://www.youtube.com/watch?v=lHKuJO9nK-8
 
 ![](https://s11.gifyu.com/images/SugDm.png)
 
-![](https://s11.gifyu.com/images/Su7ly.png)
+## ![](https://s11.gifyu.com/images/Su7ly.png)Features
 
+> The collection comes with a few quality of life improvements.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - You can now pause the game at any time using "P"
 - You will respawn faster after dying.
 - The intro is skipped.
 - UI for PS4 and PS5 controllers.
+</details>
 
 ![](https://s11.gifyu.com/images/SugDm.png)\
 ![](https://s12.gifyu.com/images/SuvZV.png)
@@ -393,7 +453,7 @@ https://www.youtube.com/watch?v=uemw7TJzc7Y
 
 [Elden Ring Ultimate Cheat Engine Table (Best Table)](https://www.nexusmods.com/eldenring/mods/48?tab=description) by [TeamHexinton](https://www.nexusmods.com/eldenring/users/135987138). To use this table you will need to install Cheat Engine you can find it [HERE](https://www.cheatengine.org/) once installed you can launch the table from the tools bar in Vortex.
 
-### Features
+## Features
 
 > ID Lists/Add Anything/ParamEditor/SeveralScripts If you want to run around Elden Ring shooting 100 spells per second and flying across the map then this table is for you!
 
@@ -421,15 +481,43 @@ https://www.youtube.com/watch?v=uemw7TJzc7Y
 
 ![](https://s11.gifyu.com/images/SugDm.png)
 
+## Features
+
+> Enhanced body features+Custom sculpted bodys.
+
+***
+
+## -KS- Solo Body ER 2.0 (Nude Body Mod)
+
+![](https://s10.gifyu.com/images/S5K6Y.png)[-KS- Solo Body ER 2.0 (Nude Body Mod)](https://www.nexusmods.com/eldenring/mods/5436) by [zosoab70](https://www.nexusmods.com/eldenring/users/27272454)
+
+## Features
+
+> This is a completely new, custom sculpted body mesh for Elden Ring. It will act as your nude body model but also now supports body masking so it will not clip through most vanilla armors.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- A fully custom-sculpted muscular body mesh
+- High-heel feet version (shoes included when nude)
+- Flatfoot version
+- Custom 3d nipples and vagina
+- New idle poses (optional)
+- Supports all skin colours
+- Working body size sliders
+- Supports body masking allowing the use of most vanilla armor
+- Fixed blood splatter decals
+</details>
+
+![](https://s11.gifyu.com/images/SugDm.png)
+
 ![](https://s11.gifyu.com/images/SumzB.png)
 
 ## Features
 
 > XXX Features.
 
-<details><summary>CLICK FOR MORE DETAILS</summary>
-- Nude player when removing armor.
-- Revealing armor.
+<details><summary>CLICK FOR MORE DETAILS (NSFW)</summary>
+- Nude player when removing armour.
+- Revealing armour.
 - Nude Ranni.
 - More revealing Malenia.
 </details>
@@ -451,7 +539,7 @@ https://www.youtube.com/watch?v=uemw7TJzc7Y
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 1GB
+- STORAGE> 97GB
 - STORAGE TYPE> SSD (Recommended)
 </details>
 
@@ -463,11 +551,9 @@ Please let us know if you have any issues with this collection I'm sure we can f
 
 If you enjoy this collection, **PLEASE** endorse the mod authors and Support me to help me build the best collection we can for this game.
 
-Special thanks to these people who helped make this collection. And everyone on Nexus and the?ServerName? discord.
+Special thanks to these people who helped make this collection. And everyone on Nexus and the ?ServerName? discord.
 
-- Fenrir
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- DovaDigital
+- v2s Collections Team
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 
