@@ -1,6 +1,6 @@
-### ✅Compatible with Patch 1.12.3                                                                     ✅ **Compatible** with or without DLC
+### ✅Compatible with Patch 1.13                                                                        ✅ **Compatible** with or without DLC
 
-![](https://s11.gifyu.com/images/Suhls.jpg)Hey v2 here this is The [Tarnished](https://) for Elden Ring.
+![](https://s12.gifyu.com/images/S5u6Q.png)Hey v2 here this is The [Tarnished](https://) for Elden Ring.
 
 <details><summary>ABOUT ME</summary>
 Hey Chooms! This is a little bit about me and why I started curating mod collections
@@ -34,7 +34,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the best authors and are a must-have to immerse yourself in Elden Ring.
 - The most exstensive mod collection on Nexus for Elden Ring.
 - Easy to follow step-by-step installation guide.
-- Only-[1](https://)GB in download size for [50](https://)+ mods. Optional Mods add another [96](https://)GB.
+- Only-[1](https://)GB in download size for [60](https://)+ mods. Optional Mods add another [96](https://)GB.
 - Continuous Support in Comments and on Discord.
 - Live voice **Support**.
 - **Giveaways**. Game Keys/Discord Nitro (Every Week).&#x20;
@@ -42,7 +42,7 @@ This collection is extensively tested with every new version that is released. I
 
 ![](https://s10.gifyu.com/images/S4aAS.jpg)
 
-- ![](https://s12.gifyu.com/images/SuhlM.png)50+ Mods in one click.
+- ![](https://s12.gifyu.com/images/SuhlM.png)60+ Mods in one click.
 - First-Person Mode.
 - Co-Op Mode.
 - Weapon and Armor Mods.
@@ -248,7 +248,19 @@ To use the included cheat engine script you will need to install Cheat Engine yo
 ## FAQ
 
 <details><summary>CLICK HERE FOR COMMON FAQs</summary>
-## [Where is the game located ](https://) ❓
+## [Co-Op Corrupted Save on Launch](https://)
+
+**1**) Disable the ***Merged regulation file*** in **Vortex**.&#x20;
+
+**2**) Launch the game. Load a save and re-save.
+
+**3**) Exit the game
+
+**4**) Enable the ***Merged regulation file*** in **Vortex**.&#x20;
+
+**5**) Relaunch.
+
+## [Where is the game located  ❓](https://)
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Elden Ring.exe
@@ -256,7 +268,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Elden Ring.exe
 
 ## [My game is crashing on startup?](https://) or [My game won't launch after Collection Update ](https://)
 
-1. Check the install guide and make sure you followed the instructions.
+Check the install guide and make sure you followed the instructions.
 
 ## [Players body is missing parts](https://) ❓
 
@@ -268,11 +280,11 @@ You haven't chosen the right skin tone choose these colour settings R243 G167 B1
 
 ## [Game isn't launching just a black window appears](https://) ❓
 
-1\) You haven't set the **modengine2\_launcher.exe** to run as admin follow the guide in the installation section.
+**1**) You haven't set the **modengine2\_launcher.exe** to run as admin follow the guide in the installation section.
 
 or
 
-2\) Steam isn't open.
+**2**) Steam isn't open.
 
 ## [My game is crashing after creating a character or loading a save❓](https://)
 
@@ -358,7 +370,7 @@ Turn off Ray Tracing.
 > Many custom outfits to choose from.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- 15+ Outfits/Armour.
+- 20+ Outfits/Armour.
 - 5+ New hairstyles.
 </details>
 
@@ -377,6 +389,9 @@ Turn off Ray Tracing.
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - No rune loss after death.
 - Randomize bosses, enemies, and items, including key items and shops.
+- Change your appearance to any armour while keeping the stats and bonuses from the armour you actually have equipped.
+- Buy any item from Kalé that is accessible even if Kalé is dead. **(OPTIONAL)**
+- Auto-upgrade weapons\*\* \*\*from Kalé weapons are upgraded to the highest level you've already attained on a given character, so no need to run back and forth between Hewg and Kalé. **(OPTIONAL)**
 </details>
 
 ***
@@ -442,8 +457,17 @@ https://www.youtube.com/watch?v=lHKuJO9nK-8
 ![](https://s11.gifyu.com/images/SugDm.png)\
 ![](https://s12.gifyu.com/images/SuvZV.png)
 
+## Features
+
+> The collection comes with a few cheat mods.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Anti-cheat toggler.
 - Offline Launcher.
+- Cheat engine install guide.
+- Cheat Engine Script.
+- Buy any item for 0 runes **(OPTIONAL)**
+</details>
 
 ***
 
