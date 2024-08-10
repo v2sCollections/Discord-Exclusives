@@ -1,4 +1,4 @@
-### **✅Compatible With July 2024 Patch**
+### **✅Compatible With The Latest Patch**
 
 https://www.youtube.com/watch?v=\_94nFCwEh4o
 
@@ -250,7 +250,7 @@ I have added this Reshade below.
 </details>
 
 <details><summary>⌨️ KEYBINDS</summary>
-![](https://s12.gifyu.com/images/MOD-KEYBINDS.png)After you activate the mods with the Blueprint Apparate Modloader (F8) these will be the default Keybinds.
+![](https://s10.gifyu.com/images/S5ylK.png)After you activate the mods with the Blueprint Apparate Modloader (F8) these will be the default Keybinds.
 
 - HOME = Reshade. (OPTIONAL)
 - F1 = Unequip Wand
@@ -308,17 +308,13 @@ I have added this Reshade below.
 ## FAQ
 
 <details><summary>CLICK HERE FOR COMMON FAQs</summary>
-## [Where is the game located](https://)❓
+## [Bugged Clothing/Hair Textures ](https://)
 
-```
-GOG users>   Drive Letter\GOGLibrary\Games\Hogwarts Legacy
-Steam users> Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy
-Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy
-```
+Select **"J"** on your keyboard to open the Outfit Studio and select **"Reset"**.
 
 ## [I've installed the collection but my game crashes when I create a character](https://)❓
 
-- This is most likely because you have two or more non-compatible mods enabled ie**MAKEUP**, **CUSTOM PLAYER FACES**, **WANDS**check the mod settings and overview section.
+- This is most likely because you have two or more non-compatible mods enabled ie **MAKEUP**, and \*\*WANDS \*\*check the mod settings and overview section.
 
 ## [My game is crashing ❓ ](https://)
 
@@ -359,13 +355,29 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## ![](https://s11.gifyu.com/images/Difficulty.png)
+## ![](https://s10.gifyu.com/images/S5yls.png)
 
 > The Goblet Overhaul by v2 is included in the collection. You can choose from many presets so you can set the difficulties as you wish for an easier or more challenging experience.
 
 ## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## ![](https://s11.gifyu.com/images/BODY-MODS.png)Features
+## ![](https://s10.gifyu.com/images/S5ylL.png)Features
+
+> The collection comes with many improvements to the graphics and our own reshade. Hogwarts Legacy has never looked better.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Reshade included.
+- Reshade Preset included.
+- Toggle hud.
+- Smaller UI.
+- Lots of in-game menus to configure your mods.
+- Smaller crosshair and mouse pointer.
+- Custom flying camera.
+</details>
+
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
+
+## ![](https://s12.gifyu.com/images/S5yl3.png)Features
 
 > From Custom faces to enhanced custom eyes and custom hairstyles your character has never looked better.
 
@@ -407,7 +419,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-### ![](https://s12.gifyu.com/images/OUTFITS.png)Features
+### ![](https://s12.gifyu.com/images/S5ylT.png)Features
 
 > Many custom outfits to choose from.
 
@@ -472,25 +484,9 @@ https://www.youtube.com/watch?v=Wrng3M-QJ90
 
 > The ULTIMATE clothing mod allows in-depth control over your player's outfit. Press the\*\*\* J\*\*\* key in the game to open the outfit studio menu. Change outfit textures, scalars, and vectors in GAME - REAL TIME Easily Save / Load custom outfits
 
-## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
-
-## ![](https://s11.gifyu.com/images/GRAPHICS.png)Features
-
-> The collection comes with many improvements to the graphics and our own reshade. Hogwarts Legacy has never looked better.
-
-<details><summary>CLICK FOR MORE DETAILS</summary>
-- Reshade included.
-- Reshade Preset included.
-- Toggle hud.
-- Smaller UI.
-- Lots of in-game menus to configure your mods.
-- Smaller crosshair and mouse pointer.
-- Custom flying camera.
-</details>
-
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## ![](https://s12.gifyu.com/images/GAMEPLAY.png)Features
+## ![](https://s10.gifyu.com/images/S5ylH.png)Features
 
 > The collection comes with many improvements and adjustments to the core gameplay of Hogwarts Legacy. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
 
@@ -564,7 +560,20 @@ https://www.youtube.com/watch?v=Wrng3M-QJ90
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## ![](https://s11.gifyu.com/images/QUALITY-OF-LIFE.png)Features
+### ![](https://s10.gifyu.com/images/S5ylE.png)Features
+
+> Many fixes to vanilla game bugs.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Fixes Bird In Hand Bug. Official bug number [HL-19013](https://hogwartslegacy.bugs.wbgames.com/bug/HL-19013).
+- Fixes Prof Fig Final Repository Bug. Official bug numbers [HL-8823](https://hogwartslegacy.bugs.wbgames.com/bug/HL-8823) & [HL-9020](https://hogwartslegacy.bugs.wbgames.com/bug/HL-9020).
+- Fixes Bugged Doors.
+- Fixes Ultrawide Resolutions.
+</details>
+
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
+
+## ![](https://s12.gifyu.com/images/S5ylw.png)Features
 
 > The collection comes with many quality of life improvements from the small things that annoy you to the user interface of Hogwarts Legacy.
 
@@ -582,13 +591,13 @@ https://www.youtube.com/watch?v=Wrng3M-QJ90
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-![](https://s12.gifyu.com/images/CHEATS.png)
+![](https://s10.gifyu.com/images/S5ylh.png)
 
 - See the Goblet Overhaul/Goblet Unlock All Preset down below for a preset that unlocks most of the spells and in-game items.
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## ![](https://s11.gifyu.com/images/IMMERSION.png)Features
+## ![](https://s10.gifyu.com/images/S5ylx.png)Features
 
 > Many immersive features added to the game. From NPC engagement to many new actions for your character.
 
@@ -641,7 +650,7 @@ https://www.youtube.com/watch?v=Wrng3M-QJ90
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## ![](https://s12.gifyu.com/images/COMBAT-WANDS.png)Features
+## ![](https://s10.gifyu.com/images/S5ylk.png)Features
 
 > Over 50 custom wands to choose from and diffrent combat elements will enahance the replay ability of Hogwarts Legacy.
 
@@ -668,7 +677,7 @@ https://www.youtube.com/watch?v=Wrng3M-QJ90
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## ![](https://s11.gifyu.com/images/BROOMS.png)Features
+## ![](https://s12.gifyu.com/images/S5yl9.png)Features
 
 > 7 New custom brooms, new ways to fly and better broom controls.
 
@@ -690,7 +699,7 @@ https://www.youtube.com/watch?v=Wrng3M-QJ90
 
 ## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-![](https://s12.gifyu.com/images/MOD-TOOLS.png)
+![](https://s12.gifyu.com/images/S5ylN.png)
 
 ⛔For Advanced users only. These tools are included in the collection and can be found in your main game directory.
 
